@@ -20,7 +20,7 @@ python3 manage.py runserver
 
 ## Frontend Setup
 
-Once you set up the backend, it is time to set up the frontend. Assuming you are in the dashboard-page folder, change directory to the frontend
+Once you set up the backend, it is time to set up the frontend. Assuming you are in the stepped out of the backend folder, change directory to the frontend
 
 ```bash
 cd frontend
